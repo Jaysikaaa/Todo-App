@@ -6,13 +6,11 @@ todos: [
     {
         id: 1,
         todo : 'todo msg',
-        completed: false
     }
 ],
 addTodo: (todo) => {},
 updatedTodo: (todo, id) => {},
 deleteTodo: (id) => {},
-toggleComplete : (id) => {}
 
 })
 
